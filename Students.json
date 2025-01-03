@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1735922826804,
+    "name": "Bhavani",
+    "rollNumber": "1",
+    "attendance": 1
+  },
+  {
+    "id": 1735922851878,
+    "name": "Usha Sri",
+    "rollNumber": "2",
+    "attendance": 1
+  },
+  {
+    "id": 1735922958290,
+    "name": "Harshini",
+    "rollNumber": "3",
+    "attendance": 0
+  },
+  {
+    "id": 1735922970431,
+    "name": "Sana",
+    "rollNumber": "4",
+    "attendance": 0
+  },
+  {
+    "id": 1735922986850,
+    "name": "Divya",
+    "rollNumber": "5",
+    "attendance": 1
+  },
+  {
+    "id": 1735923517622,
+    "name": "Sneha",
+    "rollNumber": "6",
+    "attendance": 1
+  }
+]
